@@ -1,5 +1,7 @@
 <?php
 
+namespace JohanO98\reversestring;
+
 class reverse_string {
     public $str;
 
